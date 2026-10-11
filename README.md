@@ -5,10 +5,9 @@
   <br>
 
   <!-- Big prominent button to the live site -->
-  <a href="https://github.io" target="_blank" rel="noopener noreferrer">
-    <img src="https://shields.io" alt="Visit Live Website" height="55">
+  <a href="https://mastkasin.github.io/westside/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_VISIT_LIVE_WEBSITE-E6A024?style=for-the-badge&logoColor=white&labelColor=385A1F" alt="Visit Live Website" height="55">
   </a>
-
 
   <br><br>
 
